@@ -1,0 +1,158 @@
+body{
+    background-color: rgba(255, 62, 0, 0.6);
+    padding: 0;
+    margin-top: 0;
+}
+
+.wrapper1{
+	overflow: hidden;
+}
+
+.logo{
+	background-color: rgba(167, 217, 86, 0.6);
+	min-height: 120px;
+	float:left;
+	width: 65%;
+    position: relative;
+    margin-top: 45px;
+    margin-left: 45px;
+}
+.logo h1 {
+	color: rgb(0, 51, 102);
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
+
+.navigation{
+	background-color: rgb(59, 217, 110);
+	min-height: 120px;
+	float: right;
+	width: 28%;
+	position: relative;
+	margin-top: 45px;
+	margin-right: 45px;
+	
+}
+.navigation h1{
+	color: black;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
+
+.container{
+overflow: hidden;
+}
+
+.container ul{
+	margin:0;
+	padding: 0;
+}
+
+.container ul li{
+    list-style: none;
+    float: left;
+    width: 17%;
+    height: 120px;
+    background: rgba(60, 71, 221, 0.69);
+    margin: 45px 44px 20px 40px;
+    padding: 10px;
+}
+
+.wrapper {
+	overflow: hidden;
+}
+
+.box1 {
+	background-color: 	rgba(34, 228, 234, 0.7);
+	min-height: 300px;
+	width:30%;
+	float:left;
+	margin-right: 10px;
+	margin-left: 45px;
+	margin-top: 10px;
+}
+.box1 h1{
+    color: rgb(0, 51, 102);
+	margin: 100px;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
+
+.box2 {
+	background-color: 	rgba(34, 228, 234, 0.7);
+	min-height: 300px;
+	width:30%;
+	float:left;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.box2 h1{
+	color: rgb(0, 51, 102);
+	margin: 100px;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
+
+.box3{
+	background-color: 	rgba(34, 228, 234, 0.7);
+	min-height: 300px;
+	width:30%;
+	float:left;
+	margin-right: 45px;
+	margin-left: 11px;
+	margin-top: 10px;
+}
+.box3 h1{
+	color: rgb(0, 51, 102);
+	margin: 100px;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
+.footer{
+	background-color: rgba(135, 228, 34, 0.7);;
+	min-height: 50px;
+	margin-top: 10px;
+	margin-right: 45px;
+	margin-left: 45px;
+	margin-bottom: 30px;
+	clear: both;
+}
+.footer h1{
+	color: white;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
